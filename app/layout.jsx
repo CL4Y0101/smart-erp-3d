@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Smart ERP 3D — Simulasi Lantai Pabrik',
-  description: 'Simulasi lantai pabrik 3D interaktif buat demo Smart ERP (PLAY IT! PLUS).',
+  title: 'Smart ERP 3D — Simulasi Pabrik Roti',
+  description: 'Simulasi lini produksi roti 3D interaktif buat demo Smart ERP (PLAY IT! PLUS).',
 };
 
 export default function RootLayout({ children }) {
